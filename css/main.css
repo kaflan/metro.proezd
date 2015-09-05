@@ -1,0 +1,21 @@
+.navbar-color {
+    background-color: rgba(26, 136, 46, 0.75);
+    margin-bottom: 20px;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: rgba(40, 84, 53, 0.52);
+}
+
+a {
+    color: #C1171D;
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    color: #E85911;
+    text-decoration: underline;
+}

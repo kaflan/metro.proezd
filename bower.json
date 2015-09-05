@@ -1,0 +1,18 @@
+{
+  "name": "hakaton",
+  "version": "0.0.1",
+  "authors": [
+    "kaflan <kaf_90@mail.ru>"
+  ],
+  "keywords": [
+    "hakaton"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
